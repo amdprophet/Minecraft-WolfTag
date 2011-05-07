@@ -18,4 +18,4 @@ How to install it
 How to use it
 -------------
 
-Simply right-click on a tamed wolf and the owner's name will appear in the chat ox.
+Simply right-click on a tamed wolf and the owner's name will appear in the chat box.
